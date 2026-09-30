@@ -1,2 +1,2 @@
 # RepositorioPruebaHoy
-Repositorio de la Clase del Viernes
+Este es un repositorio de prueba para el uso de github
